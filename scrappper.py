@@ -9,8 +9,8 @@ import promptlayer
 openai = promptlayer.openai
 
 # TODO: This should be in an env and per user
-promptlayer.api_key = "pl_2165376193707c1ecd2b9044bfee557c"
-openai.api_key = "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"
+promptlayer.api_key = ""
+openai.api_key = ""
 
 
 ###########################
