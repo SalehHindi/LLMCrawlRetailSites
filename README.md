@@ -1,2 +1,2 @@
-# LLMCrawlRetailSites
-Code to crawl + scrape retail sites + process w/ LLMs
+# LLMCrawlSite
+Code to crawl + scrape sites + process w/ LLMs
